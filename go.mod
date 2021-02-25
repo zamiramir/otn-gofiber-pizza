@@ -1,4 +1,4 @@
-module https: //github.com/zamiramir/otn-gofiber-pizza
+module github.com/zamiramir/otn-gofiber-pizza
 
 go 1.16
 

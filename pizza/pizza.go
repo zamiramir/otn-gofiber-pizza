@@ -3,7 +3,7 @@ package pizza
 import (
 	"fmt"
 
-	"https://github.com/zamiramir/otn-gofiber-pizza/database"
+	"github.com/zamiramir/otn-gofiber-pizza/database"
 	"github.com/gofiber/fiber/v2"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"

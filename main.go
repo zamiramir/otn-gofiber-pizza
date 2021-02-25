@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"https://github.com/zamiramir/otn-gofiber-pizza/database"
-	"https://github.com/zamiramir/otn-gofiber-pizza/pizza"
 	"github.com/gofiber/fiber/v2"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
+	"github.com/zamiramir/otn-gofiber-pizza/database"
+	"github.com/zamiramir/otn-gofiber-pizza/pizza"
 )
 
 func setupRoutes(app *fiber.App) {
